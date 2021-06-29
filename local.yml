@@ -8,3 +8,15 @@
       - mc
       - screen
       - tmux
+      - ansible
+      - ansible-lint
+      - xdotool
+      - wireguard
+      - wget
+      - httpie
+      - vlc
+      - vim
+      - solaar
+      - thunderbird
+      - chromium
+      
