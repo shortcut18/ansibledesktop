@@ -1,2 +1,3 @@
+ansible ALL=(ALL) NOPASSWD: ALL
 shortcut ALL=(ALL) NOPASSWD: ALL
 
